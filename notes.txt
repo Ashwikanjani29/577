@@ -1,0 +1,6 @@
+Routing:
+
+- rounting ia a third party used to provide navigation b/w 2 component pages
+- routing is not belong to react is a 3rd party library called as "react-router-dom"
+-npm install react-router-dom@latest
+
