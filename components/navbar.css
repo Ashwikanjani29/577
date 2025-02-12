@@ -11,6 +11,10 @@
     list-style-type: disc;
     display: flex;
 }
+.logoBlock{
+    width: 80%;
+    display: flex;
+}
 
 .menuBlock > ul> li>a{
 

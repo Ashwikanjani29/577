@@ -5,11 +5,12 @@ const Menu = () => {
   return (
     <div className='Styles.menuBlock'>
         <ul>
-            <li><Link ="/">DashBoard</Link></li>
-            <li><a href="./Classroom">Classrooms</a></li>
-            <li><a href="./Store">Store</a></li>
-            <li><a href="./Blog">Blog</a></li>
-            
+            <li><Link to="">Dashboard</Link></li>
+            <li><Link to="">Classroom</Link></li>
+            <li><Link to="">Store</Link></li>
+            <li><Link to="">Blog</Link></li>
+            <li><Link to="">Assessments</Link></li>
+            <li><Link to="">Tags</Link></li>
         </ul>
 
     </div>
