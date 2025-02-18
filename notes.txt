@@ -1,6 +1,41 @@
-Routing:
+Routing in react:-
+******************
+- routing is a third party library used to provide navigation between two components//pages.
+- routing is not belongs to react it is a third party library called as 
+        "react-router-dom".
 
-- rounting ia a third party used to provide navigation b/w 2 component pages
-- routing is not belong to react is a 3rd party library called as "react-router-dom"
--npm install react-router-dom@latest
+- npm install react-router-dom@latest
 
+- "react-router-dom": "^7.1.5",
+7 - major version
+1 - minor version
+5 - patch version
+
+
+CRUD operation
+
+C - create    - POST()
+R- read       - GET()
+U -update     - PUT()
+D - delete    - DELETE()
+
+https :- hyper text transfer protocol secured
+http , smtp , ftp , tcp ,ip etc.....
+
+
+- json server 
+- npm install json-server -g
+
+- axios library  to fetch the data.
+- npm install axios
+
+
+********************************************
+Redux Library:
+- redux is a library of javascript used for state management in react, angulat,vue js applictions.
+- is more suppoetive in react beacuse ,redux also follows unidierctional data flow.
+- need to be install by
+        -npm install Redux
+- for connecting the react and redux we need one more 3rd party library called as "react-redux"
+        -npm install react-redux
+- 
